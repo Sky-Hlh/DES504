@@ -1,511 +1,817 @@
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 0
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 1
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 2
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 3
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 4
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPersonRun.uasset" 5
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 6
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 7
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 8
-"M:/Unreal Projects/DES504/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 9
-"M:/Unreal Projects/DES504/Content/Geometry/Meshes/CubeMaterial.uasset" 10
-"M:/Unreal Projects/DES504/Content/Geometry/Meshes/TemplateFloor.uasset" 11
-"M:/Unreal Projects/DES504/Content/Prefabs/Castle/RotatecastleSky.uasset" 12
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 13
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_MacroVariation.uasset" 14
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 15
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 16
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 17
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 18
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 19
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 20
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 21
-"../../../Engine/Content/BasicShapes/Cube.uasset" 22
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 23
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 24
-"M:/Unreal Projects/DES504/Content/Prefabs/Rope/HookPoint.uasset" 25
-"M:/Unreal Projects/DES504/Content/Prefabs/Rope/HookPointWidge.uasset" 26
-"M:/Unreal Projects/DES504/Content/Prefabs/Rope/HookPointForSwing.uasset" 27
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 28
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 29
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 30
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 31
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 32
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 33
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 34
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 35
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 36
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 37
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 38
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 39
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 40
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 41
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 42
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 43
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 44
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 45
-"M:/Unreal Projects/DES504/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 46
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelCompelete/ExitGameBtn.uasset" 47
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelCompelete/GetStartedBtn.uasset" 48
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelCompelete/LevelSelectBtn.uasset" 49
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelSelcet/Wiget_levelselect.uasset" 50
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/MainMenu/MainMenu.uasset" 51
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Blueprints/RotateCastleCharacterSky.uasset" 52
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Blueprints/GameMode_Sky.uasset" 53
-"../../../Engine/Content/BasicShapes/Plane.uasset" 54
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 55
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 56
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 57
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 58
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 59
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 60
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 61
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 62
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 63
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 64
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 65
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 66
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 67
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 68
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 69
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 70
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 71
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 72
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 73
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 74
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 75
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 76
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 77
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 78
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 79
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 80
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 81
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 82
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 83
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 84
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 85
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 86
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 87
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 88
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 89
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 90
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 91
-"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 92
-"../../../Engine/Content/EditorResources/S_KHinge.uasset" 93
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 94
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 95
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 96
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 97
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 98
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 99
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 100
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 101
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 102
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 103
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 104
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 105
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 106
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 107
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 108
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 109
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 110
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 111
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 112
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 113
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 114
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 115
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 116
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 117
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 118
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 119
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 120
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 121
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 122
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 123
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 124
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 125
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 126
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 127
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 128
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 129
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 130
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 131
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 132
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 133
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 134
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 135
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 136
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 137
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 138
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 139
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 140
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 141
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 142
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 143
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 144
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 145
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 146
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 147
-"../../../Engine/Content/EngineMeshes/Cube.uasset" 148
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 149
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 150
-"../../../Engine/Content/EngineResources/Black.uasset" 151
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 152
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 153
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 154
-"../../../Engine/Content/EngineSounds/Master.uasset" 155
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 156
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 157
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 158
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 159
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 160
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 161
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 162
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 163
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 164
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 165
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 166
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 167
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 168
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 169
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 170
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 171
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 172
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 173
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 174
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 175
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 176
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 177
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 178
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 179
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 180
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 181
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 182
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 183
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 184
-"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 185
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 186
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 187
-"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 188
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 189
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 190
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 191
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 192
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 193
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 194
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 195
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 196
-"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 197
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 198
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 199
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 200
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 201
-"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 202
-"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 203
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 204
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 205
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 206
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 207
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 208
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 209
-"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 210
-"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 211
-"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 212
-"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 213
-"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 214
-"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 215
-"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 216
-"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 217
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 218
-"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 219
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 220
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 221
-"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 222
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 223
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 224
-"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 225
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 226
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 227
-"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 228
-"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 229
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 230
-"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 231
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 232
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 233
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 234
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 235
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 236
-"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 237
-"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 238
-"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 239
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 240
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 241
-"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 242
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 243
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 244
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 245
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 246
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 247
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 248
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 249
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 250
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 251
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 252
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 253
-"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 254
-"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 255
-"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 256
-"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 257
-"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 258
-"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 259
-"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 260
-"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 262
-"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 263
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 264
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 265
-"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 266
-"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 267
-"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 268
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 269
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 270
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 271
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 272
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 273
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 274
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 275
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 276
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 277
-"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 278
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 279
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 280
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 281
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 282
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 283
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/BP_interaction.uasset" 284
-"M:/Unreal Projects/DES504/Content/Geometry/Meshes/1M_Cube.uasset" 285
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/rotatecastle.uasset" 286
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/toturialWidget.uasset" 287
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/dead/RedBGOverlay.uasset" 288
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/dead/dead_menu.uasset" 289
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/pauseMeun/PauseMenuWidget.uasset" 290
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/tooltip/interact_text.uasset" 291
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Blueprints/RotateCastleCharacter.uasset" 292
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 293
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 294
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 295
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 296
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 297
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 298
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 299
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 300
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 301
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 302
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 303
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 304
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 305
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 306
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelCompelete/MainBGOverlay.uasset" 307
-"M:/Unreal Projects/DES504/Content/roomrotate/UI/levelCompelete/Level_complete.uasset" 308
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/magicCubeRoom/magiccube.uasset" 309
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Maps/mainmeun.umap" 310
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Maps/testformagiccube.umap" 311
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/ironBox.uasset" 312
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Door_M.uasset" 313
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Door_N.uasset" 314
-"M:/Unreal Projects/DES504/Content/StarterContent/Props/Materials/M_Door.uasset" 315
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/jointandball.uasset" 316
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_Basic_Wall.uasset" 317
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/Shape_Sphere.uasset" 318
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/ball.uasset" 319
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/triggerForStarttoturial.uasset" 320
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 321
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 322
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_Metal_Gold.uasset" 323
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/ToggleButton.uasset" 324
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/ballposition.uasset" 325
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/cabe/MAT_test_forCube.uasset" 326
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/cabe/test_PhysicsAsset.uasset" 327
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/cabe/test_Skeleton.uasset" 328
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/cabe/test.uasset" 329
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/cabe/test_bp.uasset" 330
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/room.uasset" 331
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_Glass.uasset" 332
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/staticMesh/SM_Door.uasset" 333
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Frame_M.uasset" 334
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Frame_N.uasset" 335
-"M:/Unreal Projects/DES504/Content/StarterContent/Props/Materials/M_Frame.uasset" 336
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/staticMesh/SM_DoorFrame.uasset" 337
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/targetdoor.uasset" 338
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_01.uasset" 339
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap01.uasset" 340
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_01_b.uasset" 341
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap01_b.uasset" 342
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap01_pCube448_trap01.uasset" 343
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap01_trap01_pCone36.uasset" 344
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/spearwall.uasset" 345
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02.uasset" 346
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap02.uasset" 347
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_02_b.uasset" 348
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap02_b.uasset" 349
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02_polySurface95_trap02.uasset" 350
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02_trap02_pCube454.uasset" 351
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/spearwall_2.uasset" 352
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel01tex.uasset" 353
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel01.uasset" 354
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel01.uasset" 355
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel02_2.uasset" 356
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/normal_mapping_normal_map.uasset" 357
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/normal_mapping_normal_map1.uasset" 358
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel02.uasset" 359
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel02.uasset" 360
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel03tex_02.uasset" 361
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel03.uasset" 362
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel03.uasset" 363
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunneltorch_0.uasset" 364
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunneltorch_0.uasset" 365
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunneltorch.uasset" 366
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 367
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 368
-"M:/Unreal Projects/DES504/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 369
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Water_N.uasset" 370
-"M:/Unreal Projects/DES504/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 371
-"M:/Unreal Projects/DES504/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 372
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 373
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 374
-"M:/Unreal Projects/DES504/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 375
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/P_Fire.uasset" 376
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/autoSpawnWall.uasset" 377
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 378
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 379
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 380
-"M:/Unreal Projects/DES504/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 381
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tunnel/TwoWallWithSpear.uasset" 382
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/spear_mat.uasset" 383
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 384
-"M:/Unreal Projects/DES504/Content/StarterContent/Textures/T_Spark_Core.uasset" 385
-"M:/Unreal Projects/DES504/Content/StarterContent/Particles/Materials/M_Spark.uasset" 386
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/P_Sparks.uasset" 387
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/P_Sparks_Expolode.uasset" 388
-"M:/Unreal Projects/DES504/Content/StarterContent/Shapes/Shape_Cone.uasset" 389
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/questPoint.uasset" 390
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/questPoint_forJump.uasset" 391
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/questPoint_scence1.uasset" 392
-"../../../Engine/Content/BasicShapes/Cone.uasset" 393
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/savepoint.uasset" 394
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/tiptrigger.uasset" 395
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/triggerforNext.uasset" 396
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/toturialWidget_test.uasset" 397
-"M:/Unreal Projects/DES504/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 398
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/tuotorial/tutorialRoom.uasset" 399
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/Shape_Cube.uasset" 400
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/ball/Shape_Cube_DM.uasset" 401
-"M:/Unreal Projects/DES504/Content/roomrotate/character/lambert1.uasset" 402
-"M:/Unreal Projects/DES504/Content/roomrotate/character/color2.uasset" 403
-"M:/Unreal Projects/DES504/Content/roomrotate/character/phong1.uasset" 404
-"M:/Unreal Projects/DES504/Content/roomrotate/character/character_PhysicsAsset.uasset" 405
-"M:/Unreal Projects/DES504/Content/roomrotate/character/character_Skeleton.uasset" 406
-"M:/Unreal Projects/DES504/Content/roomrotate/character/character.uasset" 407
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Maps/testmap.umap" 408
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/camera_trigger.uasset" 409
-"M:/Unreal Projects/DES504/Content/Art/Board/plate06bake.uasset" 410
-"M:/Unreal Projects/DES504/Content/Art/Board/Plate6.uasset" 411
-"M:/Unreal Projects/DES504/Content/Art/Board/plate06.uasset" 412
-"M:/Unreal Projects/DES504/Content/Prefabs/Plates/UpDownPlate.uasset" 413
-"M:/Unreal Projects/DES504/Content/Art/Board/plate01bake.uasset" 414
-"M:/Unreal Projects/DES504/Content/Art/Board/plate1.uasset" 415
-"M:/Unreal Projects/DES504/Content/Art/texture/building002bake.uasset" 416
-"M:/Unreal Projects/DES504/Content/Art/texture/building002_.uasset" 417
-"M:/Unreal Projects/DES504/Content/Art/texture/groundbake.uasset" 418
-"M:/Unreal Projects/DES504/Content/Art/texture/groundbake_MT.uasset" 419
-"M:/Unreal Projects/DES504/Content/Art/texture/wallbake.uasset" 420
-"M:/Unreal Projects/DES504/Content/Art/texture/wall.uasset" 421
-"M:/Unreal Projects/DES504/Content/Art/Board/plate01.uasset" 422
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bricks.uasset" 423
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bricks002.uasset" 424
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge_001.uasset" 425
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge.uasset" 426
-"M:/Unreal Projects/DES504/Content/Art/Bridge/building002.uasset" 427
-"M:/Unreal Projects/DES504/Content/Art/Bridge/building001.uasset" 428
-"M:/Unreal Projects/DES504/Content/Art/Bridge/building004.uasset" 429
-"M:/Unreal Projects/DES504/Content/Art/Bridge/building003.uasset" 430
-"M:/Unreal Projects/DES504/Content/Art/Bridge/Material_001.uasset" 431
-"M:/Unreal Projects/DES504/Content/Art/Bridge/circledoor.uasset" 432
-"M:/Unreal Projects/DES504/Content/Art/Test/decorate002.uasset" 433
-"M:/Unreal Projects/DES504/Content/Art/Bridge/declrate002.uasset" 434
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge3.uasset" 435
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate003.uasset" 436
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge4.uasset" 437
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate004.uasset" 438
-"M:/Unreal Projects/DES504/Content/Art/Bridge/lambert1.uasset" 439
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate005.uasset" 440
-"M:/Unreal Projects/DES504/Content/Art/Bridge/lambert2.uasset" 441
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate006_polySurface28.uasset" 442
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate006_polySurface34.uasset" 443
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge5.uasset" 444
-"M:/Unreal Projects/DES504/Content/Art/Bridge/decorate007_bridgerock.uasset" 445
-"M:/Unreal Projects/DES504/Content/Art/Bridge/door.uasset" 446
-"M:/Unreal Projects/DES504/Content/Art/Bridge/door_door01.uasset" 447
-"M:/Unreal Projects/DES504/Content/Art/Bridge/doorfloor_001.uasset" 448
-"M:/Unreal Projects/DES504/Content/Art/Bridge/doorground_pCube111.uasset" 449
-"M:/Unreal Projects/DES504/Content/Art/Bridge/ground.uasset" 450
-"M:/Unreal Projects/DES504/Content/Art/Bridge/ground_flour.uasset" 451
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge6.uasset" 452
-"M:/Unreal Projects/DES504/Content/Art/Bridge/land02_pCube37.uasset" 453
-"M:/Unreal Projects/DES504/Content/Art/Bridge/land02_pCube38.uasset" 454
-"M:/Unreal Projects/DES504/Content/Art/Bridge/land02_pCube39.uasset" 455
-"M:/Unreal Projects/DES504/Content/Art/Bridge/lambert3.uasset" 456
-"M:/Unreal Projects/DES504/Content/Art/Bridge/piece001_pCube195.uasset" 457
-"M:/Unreal Projects/DES504/Content/Art/Bridge/lambert4.uasset" 458
-"M:/Unreal Projects/DES504/Content/Art/Bridge/piece002_pCube156.uasset" 459
-"M:/Unreal Projects/DES504/Content/Art/Bridge/lambert5.uasset" 460
-"M:/Unreal Projects/DES504/Content/Art/Bridge/piece003_pCube157.uasset" 461
-"M:/Unreal Projects/DES504/Content/Art/Bridge/doorfloor_002.uasset" 462
-"M:/Unreal Projects/DES504/Content/Art/Bridge/Rock_01.uasset" 463
-"M:/Unreal Projects/DES504/Content/Art/Bridge/bridge7.uasset" 464
-"M:/Unreal Projects/DES504/Content/Art/Bridge/Rock_02.uasset" 465
-"M:/Unreal Projects/DES504/Content/Art/Bridge/wall1.uasset" 466
-"M:/Unreal Projects/DES504/Content/Art/Bridge/wall.uasset" 467
-"M:/Unreal Projects/DES504/Content/Art/Test/lamp01.uasset" 468
-"M:/Unreal Projects/DES504/Content/Art/Test/dark.uasset" 469
-"M:/Unreal Projects/DES504/Content/Art/Test/lampall.uasset" 470
-"M:/Unreal Projects/DES504/Content/Art/Test/light.uasset" 471
-"M:/Unreal Projects/DES504/Content/Art/Test/light_Inst.uasset" 472
-"M:/Unreal Projects/DES504/Content/Art/Test/lamp.uasset" 473
-"M:/Unreal Projects/DES504/Content/Art/Test/building003.uasset" 474
-"M:/Unreal Projects/DES504/Content/Art/texture/building002.uasset" 475
-"M:/Unreal Projects/DES504/Content/Art/texture/lambert4SG_001.uasset" 476
-"M:/Unreal Projects/DES504/Content/Art/texture/groundrock.uasset" 477
-"M:/Unreal Projects/DES504/Content/roomrotate/enviroment/Tunnel_b.uasset" 478
-"M:/Unreal Projects/DES504/Content/Art/Board/plate02.uasset" 479
-"M:/Unreal Projects/DES504/Content/Art/Board/plate02_DM.uasset" 480
-"M:/Unreal Projects/DES504/Content/Art/Board/plate02bake.uasset" 481
-"M:/Unreal Projects/DES504/Content/Art/Board/Plate2.uasset" 482
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 483
-"M:/Unreal Projects/DES504/Content/Prefabs/Particle/WeakPlate.uasset" 484
-"M:/Unreal Projects/DES504/Content/Prefabs/Particle/P_WeakPlateExplode.uasset" 485
-"M:/Unreal Projects/DES504/Content/Prefabs/Particle/P_WeakPlateSpawn.uasset" 486
-"M:/Unreal Projects/DES504/Content/Prefabs/Plates/WeakPlate_Vertical.uasset" 487
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Maps/TestSkyBox_BuiltData.uasset" 488
-"M:/Unreal Projects/DES504/Content/Art/texture/bridgebake.uasset" 489
-"M:/Unreal Projects/DES504/Content/Art/texture/bridgebake_tex.uasset" 490
-"M:/Unreal Projects/DES504/Content/Art/texture/building003bake.uasset" 491
-"M:/Unreal Projects/DES504/Content/Art/texture/Building003_.uasset" 492
-"M:/Unreal Projects/DES504/Content/Art/texture/building001bake.uasset" 493
-"M:/Unreal Projects/DES504/Content/Art/texture/Building1.uasset" 494
-"M:/Unreal Projects/DES504/Content/Art/texture/circlebake.uasset" 495
-"M:/Unreal Projects/DES504/Content/Art/texture/circlebake_tex.uasset" 496
-"M:/Unreal Projects/DES504/Content/Art/texture/decorate002bake.uasset" 497
-"M:/Unreal Projects/DES504/Content/Art/texture/decorate002.uasset" 498
-"M:/Unreal Projects/DES504/Content/Art/texture/doorbake.uasset" 499
-"M:/Unreal Projects/DES504/Content/Art/texture/doorbake_MT.uasset" 500
-"M:/Unreal Projects/DES504/Content/Art/texture/piece01bake.uasset" 501
-"M:/Unreal Projects/DES504/Content/Art/texture/piece1.uasset" 502
-"M:/Unreal Projects/DES504/Content/Art/texture/piece002bake.uasset" 503
-"M:/Unreal Projects/DES504/Content/Art/texture/piece2.uasset" 504
-"M:/Unreal Projects/DES504/Content/Art/texture/groundrockbake.uasset" 505
-"M:/Unreal Projects/DES504/Content/Art/texture/rock.uasset" 506
-"M:/Unreal Projects/DES504/Content/Prefabs/Particle/Dust.uasset" 507
-"M:/Unreal Projects/DES504/Content/Prefabs/Particle/P_FDust.uasset" 508
-"M:/Unreal Projects/DES504/Content/ThirdPersonBP/Maps/TestSkyBox.umap" 509
-"../../../Engine/Content/Maps/Entry.umap" 510
+"M:/504/DES504/Content/Prefabs/BackgroundAnime/First_Stage.uasset" 0
+"M:/504/DES504/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 2
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 3
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 4
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 5
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPersonRun.uasset" 6
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 7
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 8
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 9
+"M:/504/DES504/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 10
+"M:/504/DES504/Content/Geometry/Meshes/CubeMaterial.uasset" 11
+"M:/504/DES504/Content/Geometry/Meshes/TemplateFloor.uasset" 12
+"M:/504/DES504/Content/Prefabs/Castle/RotatecastleSky.uasset" 13
+"M:/504/DES504/Content/roomrotate/enviroment/ball/BP_interaction.uasset" 14
+"M:/504/DES504/Content/roomrotate/savegame/rotatecastle_gameInstance.uasset" 15
+"M:/504/DES504/Content/roomrotate/animation/Running_Skeleton.uasset" 16
+"M:/504/DES504/Content/Art/Animation/Sitting.uasset" 17
+"M:/504/DES504/Content/roomrotate/audio/jump1.uasset" 18
+"M:/504/DES504/Content/roomrotate/animation/6_25/jump1.uasset" 19
+"M:/504/DES504/Content/roomrotate/animation/6_25/jump2.uasset" 20
+"M:/504/DES504/Content/roomrotate/animation/Newanimation/jump3.uasset" 21
+"M:/504/DES504/Content/roomrotate/audio/running.uasset" 22
+"M:/504/DES504/Content/roomrotate/animation/6_25/right.uasset" 23
+"M:/504/DES504/Content/roomrotate/animation/6_25/run_left.uasset" 24
+"M:/504/DES504/Content/roomrotate/animation/Newanimation/run_back.uasset" 25
+"M:/504/DES504/Content/roomrotate/animation/Newanimation/stand.uasset" 26
+"M:/504/DES504/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 27
+"M:/504/DES504/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 28
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 29
+"M:/504/DES504/Content/roomrotate/ParticleEffect/P_feet.uasset" 30
+"M:/504/DES504/Content/roomrotate/animation/Running_Anim.uasset" 31
+"M:/504/DES504/Content/roomrotate/animation/characterBlend2d.uasset" 32
+"M:/504/DES504/Content/roomrotate/animation/RotateCastleCharAnimation_BP.uasset" 33
+"M:/504/DES504/Content/roomrotate/animation/cast/Forward_and_behind.uasset" 34
+"M:/504/DES504/Content/roomrotate/animation/cast/Montage_fowardcast.uasset" 35
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/Magic_Cirlce_Text.uasset" 36
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/Magic_Circle_Material.uasset" 37
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/Magic_Cirlce_Text2.uasset" 38
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/Magic_Ring_Material.uasset" 39
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 41
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/MagicCirlceParticles.uasset" 42
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/Magic_cirlce_Particles.uasset" 43
+"M:/504/DES504/Content/roomrotate/animation/cast/Left_switch_V3_0.uasset" 44
+"M:/504/DES504/Content/roomrotate/animation/cast/Montage_leftcast.uasset" 45
+"M:/504/DES504/Content/roomrotate/animation/cast/Right_switch_V3_0.uasset" 46
+"M:/504/DES504/Content/roomrotate/animation/cast/Montage_right_caST.uasset" 47
+"M:/504/DES504/Content/roomrotate/audio/Die.uasset" 48
+"M:/504/DES504/Content/roomrotate/animation/6_25/die_flying.uasset" 49
+"M:/504/DES504/Content/roomrotate/animation/deadInAir.uasset" 50
+"M:/504/DES504/Content/roomrotate/animation/Newanimation/fall_die.uasset" 51
+"M:/504/DES504/Content/roomrotate/animation/deadwhenlanded.uasset" 52
+"M:/504/DES504/Content/roomrotate/animation/Newanimation/Die_by_trap.uasset" 53
+"M:/504/DES504/Content/roomrotate/animation/diedbytrap.uasset" 54
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 55
+"M:/504/DES504/Content/Art/mainhall/hall_texture.uasset" 56
+"M:/504/DES504/Content/Art/mainhall/lambert_item5.uasset" 57
+"M:/504/DES504/Content/Art/mainhall/M_Cover.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 59
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 60
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 61
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 62
+"../../../Engine/Content/BasicShapes/Cube.uasset" 63
+"M:/504/DES504/Content/Art/mainhall/lambert_item.uasset" 64
+"M:/504/DES504/Content/Art/mainhall/back_flag.uasset" 65
+"M:/504/DES504/Content/Art/mainhall/fireplace.uasset" 66
+"M:/504/DES504/Content/Art/mainhall/firewood.uasset" 67
+"M:/504/DES504/Content/Art/mainhall/front_flag1.uasset" 68
+"M:/504/DES504/Content/Art/mainhall/front_flag2.uasset" 69
+"M:/504/DES504/Content/Art/mainhall/blinn_item.uasset" 70
+"M:/504/DES504/Content/Art/mainhall/carpet1.uasset" 71
+"M:/504/DES504/Content/Art/mainhall/carpet.uasset" 72
+"M:/504/DES504/Content/Art/mainhall/lambert1.uasset" 73
+"M:/504/DES504/Content/Art/mainhall/top_sky1.uasset" 74
+"M:/504/DES504/Content/Art/mainhall/top_sky.uasset" 75
+"M:/504/DES504/Content/Art/mainhall/wall_bottom_and_2_photos1.uasset" 76
+"M:/504/DES504/Content/Art/mainhall/wall_bottom_and_2_photos.uasset" 77
+"M:/504/DES504/Content/Art/mainhall/wooden_door1.uasset" 78
+"M:/504/DES504/Content/Art/mainhall/wooden_door.uasset" 79
+"M:/504/DES504/Content/Art/mainhall/hall.uasset" 80
+"M:/504/DES504/Content/Art/mainhall/new_chair.uasset" 81
+"M:/504/DES504/Content/Art/mainhall/pCube188.uasset" 82
+"M:/504/DES504/Content/Art/mainhall/pCube189.uasset" 83
+"M:/504/DES504/Content/Art/mainhall/pCube191.uasset" 84
+"M:/504/DES504/Content/Art/mainhall/pCube192.uasset" 85
+"M:/504/DES504/Content/Art/mainhall/photo_1.uasset" 86
+"M:/504/DES504/Content/Art/mainhall/photo_2.uasset" 87
+"M:/504/DES504/Content/Art/mainhall/polySurface24.uasset" 88
+"M:/504/DES504/Content/Art/mainhall/polySurface250.uasset" 89
+"M:/504/DES504/Content/Art/mainhall/polySurface251.uasset" 90
+"M:/504/DES504/Content/Art/mainhall/polySurface252.uasset" 91
+"M:/504/DES504/Content/Art/mainhall/polySurface253.uasset" 92
+"M:/504/DES504/Content/Art/mainhall/polySurface330.uasset" 93
+"M:/504/DES504/Content/Art/mainhall/polySurface331.uasset" 94
+"M:/504/DES504/Content/Art/mainhall/polySurface332.uasset" 95
+"M:/504/DES504/Content/Art/mainhall/polySurface333.uasset" 96
+"M:/504/DES504/Content/Art/mainhall/polySurface334.uasset" 97
+"M:/504/DES504/Content/Art/mainhall/polySurface335.uasset" 98
+"M:/504/DES504/Content/Art/mainhall/polySurface35.uasset" 99
+"M:/504/DES504/Content/Art/mainhall/polySurface42.uasset" 100
+"M:/504/DES504/Content/Art/mainhall/polySurface47.uasset" 101
+"M:/504/DES504/Content/Art/mainhall/pTorus1.uasset" 102
+"M:/504/DES504/Content/Art/mainhall/pTorus2.uasset" 103
+"M:/504/DES504/Content/Art/mainhall/red_carpet.uasset" 104
+"M:/504/DES504/Content/Art/mainhall/stone_wall2.uasset" 105
+"M:/504/DES504/Content/Art/mainhall/stone_wall.uasset" 106
+"M:/504/DES504/Content/Art/mainhall/stone_wall1.uasset" 107
+"M:/504/DES504/Content/Art/mainhall/stone_wall2_1.uasset" 108
+"M:/504/DES504/Content/Art/mainhall/torch_1.uasset" 109
+"M:/504/DES504/Content/Art/mainhall/torch_2.uasset" 110
+"M:/504/DES504/Content/Art/mainhall/torch_3.uasset" 111
+"M:/504/DES504/Content/Art/mainhall/torch_4.uasset" 112
+"M:/504/DES504/Content/Art/mainhall/vase1.uasset" 113
+"M:/504/DES504/Content/Art/mainhall/vase2.uasset" 114
+"M:/504/DES504/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 115
+"M:/504/DES504/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 116
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 117
+"M:/504/DES504/Content/StarterContent/Textures/T_Water_N.uasset" 118
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 119
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 120
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 121
+"M:/504/DES504/Content/Prefabs/Particle/P_Fire_MainHall.uasset" 122
+"M:/504/DES504/Content/Art/mainhall/FbxScene_hall_test2.uasset" 123
+"M:/504/DES504/Content/Art/mainhall/knight_and_front_wall.uasset" 124
+"M:/504/DES504/Content/Art/mainhall/knights1.uasset" 125
+"M:/504/DES504/Content/Art/mainhall/knight_left.uasset" 126
+"M:/504/DES504/Content/Art/mainhall/knights2.uasset" 127
+"M:/504/DES504/Content/Art/mainhall/sword_left.uasset" 128
+"M:/504/DES504/Content/Prefabs/MainHall/Knight_Left.uasset" 129
+"M:/504/DES504/Content/Art/mainhall/knights4.uasset" 130
+"M:/504/DES504/Content/Art/mainhall/knight_right.uasset" 131
+"M:/504/DES504/Content/Art/mainhall/knights3.uasset" 132
+"M:/504/DES504/Content/Art/mainhall/sword_right.uasset" 133
+"M:/504/DES504/Content/Prefabs/MainHall/Knight_Right.uasset" 134
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/touchcube/touchcube.uasset" 135
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/touchcube/Mat_MagicCube.uasset" 136
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/touchcube/Mat_MagicCube_2.uasset" 137
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/touchcube/cube.uasset" 138
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/touchcube/touchcube02.uasset" 139
+"M:/504/DES504/Content/roomrotate/UI/END/end.uasset" 140
+"M:/504/DES504/Content/roomrotate/UI/END/ENDWIDGET.uasset" 141
+"M:/504/DES504/Content/roomrotate/UI/LOADING/loadingscene.uasset" 142
+"M:/504/DES504/Content/roomrotate/UI/LOADING/loadingWidget.uasset" 143
+"M:/504/DES504/Content/Prefabs/Portal/Portal_MainHall.uasset" 144
+"M:/504/DES504/Content/roomrotate/character/Followed_cube/MAT_followCube.uasset" 145
+"M:/504/DES504/Content/StarterContent/Textures/T_Burst_M.uasset" 146
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_Burst.uasset" 147
+"M:/504/DES504/Content/roomrotate/character/Followed_cube/P_cuberotate.uasset" 148
+"M:/504/DES504/Content/StarterContent/Materials/M_Basic_Wall.uasset" 149
+"M:/504/DES504/Content/roomrotate/character/Followed_cube/Shape_Cube.uasset" 150
+"M:/504/DES504/Content/roomrotate/character/Followed_cube/FollowCube.uasset" 151
+"M:/504/DES504/Content/Prefabs/MainHall/Sword_1.uasset" 152
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/face001ps.uasset" 153
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/mAT_cubeFace01.uasset" 154
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/face002ps.uasset" 155
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/mAT_cubeFace02.uasset" 156
+"M:/504/DES504/Content/Geometry/Meshes/1M_Cube.uasset" 157
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/30x6face01.uasset" 158
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/assets/30x6face02.uasset" 159
+"M:/504/DES504/Content/roomrotate/enviroment/magicCubeRoom/magiccube.uasset" 160
+"M:/504/DES504/Content/roomrotate/enviroment/rotatecastle.uasset" 161
+"M:/504/DES504/Content/roomrotate/enviroment/teaching.uasset" 162
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/bigdoorLEFT-bake.uasset" 163
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/Mat_bigdoorleft.uasset" 164
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/bigdoorleft.uasset" 165
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/bigdoorRIGHT-bake.uasset" 166
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/MAt_bigdoorRight.uasset" 167
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/bigdoorright.uasset" 168
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/door_startroom.uasset" 169
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/toturialWidget_test.uasset" 170
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/tutorialRoom.uasset" 171
+"M:/504/DES504/Content/roomrotate/UI/levelCompelete/GetStartedBtn.uasset" 172
+"M:/504/DES504/Content/roomrotate/UI/dead/UI_button.uasset" 173
+"M:/504/DES504/Content/roomrotate/UI/dead/back_to_main_menu.uasset" 174
+"M:/504/DES504/Content/roomrotate/UI/dead/continue.uasset" 175
+"M:/504/DES504/Content/roomrotate/UI/dead/quit_game.uasset" 176
+"M:/504/DES504/Content/roomrotate/UI/dead/youfailed.uasset" 177
+"M:/504/DES504/Content/roomrotate/UI/levelCompelete/ExitGameBtn.uasset" 178
+"M:/504/DES504/Content/roomrotate/UI/levelCompelete/LevelSelectBtn.uasset" 179
+"M:/504/DES504/Content/roomrotate/UI/dead/dead_menu.uasset" 180
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/level1.uasset" 181
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/levelselectButton.uasset" 182
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/level2.uasset" 183
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/level3.uasset" 184
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/woodstick.uasset" 185
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/main_menu_bg.uasset" 186
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/title.uasset" 187
+"M:/504/DES504/Content/roomrotate/UI/levelSelcet/Wiget_levelselect.uasset" 188
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/CONTROLLER.uasset" 189
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/LEVEL_SELECT.uasset" 190
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/NEW_GAME.uasset" 191
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/QUIT.uasset" 192
+"M:/504/DES504/Content/roomrotate/UI/option/open_controller.uasset" 193
+"M:/504/DES504/Content/roomrotate/UI/option/optiionWidget_mainMenu.uasset" 194
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/MainMenu.uasset" 195
+"M:/504/DES504/Content/roomrotate/UI/option/optiionWidget.uasset" 196
+"M:/504/DES504/Content/roomrotate/animation/cape_4.uasset" 197
+"M:/504/DES504/Content/roomrotate/animation/Mat_cape.uasset" 198
+"M:/504/DES504/Content/roomrotate/UI/dead/PAUSE.uasset" 199
+"M:/504/DES504/Content/roomrotate/UI/dead/resume.uasset" 200
+"M:/504/DES504/Content/roomrotate/UI/option/options_bg.uasset" 201
+"M:/504/DES504/Content/roomrotate/UI/option/optiionWidget_2.uasset" 202
+"M:/504/DES504/Content/roomrotate/UI/pauseMeun/controller_pause.uasset" 203
+"M:/504/DES504/Content/roomrotate/UI/pauseMeun/newpauseMenu.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 205
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 206
+"M:/504/DES504/Content/roomrotate/animation/color2.uasset" 207
+"M:/504/DES504/Content/roomrotate/animation/Mat_character.uasset" 208
+"M:/504/DES504/Content/roomrotate/animation/Running_PhysicsAsset.uasset" 209
+"M:/504/DES504/Content/roomrotate/animation/Running.uasset" 210
+"M:/504/DES504/Content/roomrotate/audio/jump3.uasset" 211
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/ui_under.uasset" 212
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/toturialWidget.uasset" 213
+"M:/504/DES504/Content/roomrotate/ParticleEffect/P_ringJumpEnd.uasset" 214
+"M:/504/DES504/Content/roomrotate/UI/tooltip/interact_text.uasset" 215
+"M:/504/DES504/Content/ThirdPersonBP/Blueprints/RotateCastleCharacter.uasset" 216
+"M:/504/DES504/Content/Prefabs/Portal/Portal.uasset" 217
+"M:/504/DES504/Content/Art/Board/plate01bake.uasset" 218
+"M:/504/DES504/Content/Art/Board/plate1.uasset" 219
+"M:/504/DES504/Content/Art/texture/building002bake.uasset" 220
+"M:/504/DES504/Content/Art/texture/building002_.uasset" 221
+"M:/504/DES504/Content/Art/texture/Building2.uasset" 222
+"M:/504/DES504/Content/Art/texture/groundbake.uasset" 223
+"M:/504/DES504/Content/Art/texture/groundbake_MT.uasset" 224
+"M:/504/DES504/Content/Art/texture/wallbake.uasset" 225
+"M:/504/DES504/Content/Art/texture/wall.uasset" 226
+"M:/504/DES504/Content/Art/Board/plate01.uasset" 227
+"M:/504/DES504/Content/Art/Bridge/bricks.uasset" 228
+"M:/504/DES504/Content/Art/Bridge/bricks002.uasset" 229
+"M:/504/DES504/Content/Art/Bridge/bridge_001.uasset" 230
+"M:/504/DES504/Content/Art/Bridge/bridge.uasset" 231
+"M:/504/DES504/Content/Art/texture/bridgeendbake.uasset" 232
+"M:/504/DES504/Content/Art/Bridge/bridgeend1.uasset" 233
+"M:/504/DES504/Content/Art/Bridge/bridgeend.uasset" 234
+"M:/504/DES504/Content/Art/Bridge/building002.uasset" 235
+"M:/504/DES504/Content/Art/Bridge/building001.uasset" 236
+"M:/504/DES504/Content/Art/Bridge/building004.uasset" 237
+"M:/504/DES504/Content/Art/Bridge/building003.uasset" 238
+"M:/504/DES504/Content/Art/Bridge/building005.uasset" 239
+"M:/504/DES504/Content/Art/Bridge/circledooor5.uasset" 240
+"M:/504/DES504/Content/Art/Bridge/decorate002.uasset" 241
+"M:/504/DES504/Content/Art/Bridge/declrate002.uasset" 242
+"M:/504/DES504/Content/Art/Bridge/bridge3.uasset" 243
+"M:/504/DES504/Content/Art/Bridge/decorate003.uasset" 244
+"M:/504/DES504/Content/Art/Bridge/bridge4.uasset" 245
+"M:/504/DES504/Content/Art/Bridge/decorate004.uasset" 246
+"M:/504/DES504/Content/Art/Bridge/lambert2.uasset" 247
+"M:/504/DES504/Content/Art/Bridge/decorate006_polySurface28.uasset" 248
+"M:/504/DES504/Content/Art/Bridge/decorate006_polySurface34.uasset" 249
+"M:/504/DES504/Content/Art/Bridge/door.uasset" 250
+"M:/504/DES504/Content/Art/Bridge/door_door01.uasset" 251
+"M:/504/DES504/Content/Art/Bridge/doorfloor_001.uasset" 252
+"M:/504/DES504/Content/Art/Bridge/doorground_pCube111.uasset" 253
+"M:/504/DES504/Content/Art/Bridge/ground.uasset" 254
+"M:/504/DES504/Content/Art/Bridge/ground_flour.uasset" 255
+"M:/504/DES504/Content/Art/Bridge/lamp01.uasset" 256
+"M:/504/DES504/Content/Art/Bridge/dark.uasset" 257
+"M:/504/DES504/Content/Art/Bridge/lampall.uasset" 258
+"M:/504/DES504/Content/Art/Bridge/light.uasset" 259
+"M:/504/DES504/Content/Art/Bridge/lamp.uasset" 260
+"M:/504/DES504/Content/Art/Bridge/doorfloor_002.uasset" 261
+"M:/504/DES504/Content/Art/Bridge/Rock_01.uasset" 262
+"M:/504/DES504/Content/Art/Bridge/bridge7.uasset" 263
+"M:/504/DES504/Content/Art/Bridge/Rock_02.uasset" 264
+"M:/504/DES504/Content/Art/Bridge/wall1.uasset" 265
+"M:/504/DES504/Content/Art/Bridge/wall.uasset" 266
+"M:/504/DES504/Content/Art/texture/lambert4SG_001.uasset" 267
+"M:/504/DES504/Content/Art/texture/groundrock.uasset" 268
+"M:/504/DES504/Content/roomrotate/enviroment/Tunnel_b.uasset" 269
+"M:/504/DES504/Content/StarterContent/Textures/T_MacroVariation.uasset" 270
+"M:/504/DES504/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 271
+"M:/504/DES504/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 272
+"M:/504/DES504/Content/StarterContent/Materials/M_Wood_Oak.uasset" 273
+"M:/504/DES504/Content/Prefabs/Particle/Texture/T_Smoke_SubUV.uasset" 274
+"M:/504/DES504/Content/Prefabs/Particle/Material/M_Cloud.uasset" 275
+"M:/504/DES504/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 276
+"M:/504/DES504/Content/Prefabs/Particle/P_Cloud.uasset" 277
+"M:/504/DES504/Content/Prefabs/Rope/HookPoint.uasset" 278
+"M:/504/DES504/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 279
+"M:/504/DES504/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 280
+"M:/504/DES504/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 281
+"M:/504/DES504/Content/Prefabs/Rope/HookPointWidge.uasset" 282
+"M:/504/DES504/Content/Prefabs/Rope/HookPointForSwing.uasset" 283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 284
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 285
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 286
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 287
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 288
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 289
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 290
+"M:/504/DES504/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 291
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 292
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 293
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 294
+"M:/504/DES504/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 295
+"M:/504/DES504/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 296
+"M:/504/DES504/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 297
+"M:/504/DES504/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 298
+"M:/504/DES504/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 299
+"M:/504/DES504/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 300
+"M:/504/DES504/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 301
+"M:/504/DES504/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 302
+"M:/504/DES504/Content/ThirdPersonBP/Blueprints/RotateCastleCharacterSky.uasset" 303
+"M:/504/DES504/Content/ThirdPersonBP/Blueprints/GameMode_Sky.uasset" 304
+"../../../Engine/Content/BasicShapes/Plane.uasset" 305
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 306
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 307
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 308
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 309
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 310
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 311
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 312
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 313
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 314
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 315
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 316
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 317
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 318
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 319
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 320
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 322
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 323
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 324
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 325
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 326
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 327
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 328
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 329
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 330
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 331
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 332
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 333
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 334
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 335
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 336
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 337
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 338
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 339
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 340
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 343
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 344
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 345
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 346
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 347
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 348
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 349
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 350
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 351
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 352
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 353
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 354
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 355
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 356
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 357
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 358
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 359
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 360
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 361
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 362
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 363
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 364
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 365
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 366
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 367
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 368
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 369
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 374
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 375
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 376
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 377
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 378
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 379
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 380
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 381
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 382
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 383
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 384
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 385
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 386
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 387
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 388
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 389
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 390
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 391
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 392
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 393
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 394
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 395
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 396
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 397
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 398
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 399
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 400
+"../../../Engine/Content/EngineResources/Black.uasset" 401
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 402
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 403
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 404
+"../../../Engine/Content/EngineSounds/Master.uasset" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 407
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 408
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 409
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 410
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 411
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 412
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 413
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 414
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 415
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 416
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 417
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 418
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 419
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 420
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 428
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 429
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 430
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 431
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 432
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 433
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 434
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 435
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 436
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 437
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 438
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 439
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 440
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 441
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 442
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 443
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 444
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 445
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 446
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 448
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 449
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 450
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 451
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 452
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 453
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 454
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 455
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 456
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 457
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 458
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 459
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 460
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 461
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 462
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 463
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 464
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 465
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 466
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 467
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 468
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 469
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 470
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 471
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 472
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 473
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 474
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 475
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 476
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 477
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 478
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 479
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 480
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 481
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 482
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 483
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 484
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 485
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 486
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 487
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 488
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 489
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 490
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 491
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 492
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 493
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 494
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 499
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 500
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 501
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 502
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 503
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 504
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 505
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 506
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 507
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 508
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 509
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 510
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 511
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 512
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 513
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 514
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 515
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 516
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 517
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 518
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 519
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 520
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 521
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 522
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 523
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 525
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 526
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 527
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 528
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 529
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 530
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 531
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/smalldoor-bake.uasset" 532
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/MAt_smallDoor.uasset" 533
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/door/smalldoor.uasset" 534
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/doorToOpen.uasset" 535
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/triggerForStarttoturial.uasset" 536
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 537
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 538
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 539
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 540
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 541
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 542
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 543
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 544
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 545
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/T-F-P-bake.uasset" 546
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/T-F-P2.uasset" 547
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/Torch00.uasset" 548
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/P_Fire.uasset" 549
+"M:/504/DES504/Content/Prefabs/Environment/Torch.uasset" 550
+"M:/504/DES504/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 551
+"M:/504/DES504/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 552
+"M:/504/DES504/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 553
+"M:/504/DES504/Content/StarterContent/Materials/M_Ground_Moss.uasset" 554
+"M:/504/DES504/Content/Prefabs/Plates/RotatePlate_Static.uasset" 555
+"M:/504/DES504/Content/Art/Board/plate06bake.uasset" 556
+"M:/504/DES504/Content/Art/Board/Plate6.uasset" 557
+"M:/504/DES504/Content/Art/Board/plate06.uasset" 558
+"M:/504/DES504/Content/Prefabs/Plates/UpDownPlate.uasset" 559
+"M:/504/DES504/Content/Art/Board/plate02.uasset" 560
+"M:/504/DES504/Content/Art/Board/plate02_DM.uasset" 561
+"M:/504/DES504/Content/Art/Board/plate02bake.uasset" 562
+"M:/504/DES504/Content/Art/Board/Plate2.uasset" 563
+"M:/504/DES504/Content/Prefabs/Particle/Material/M_WeakPlate.uasset" 564
+"M:/504/DES504/Content/Prefabs/Particle/P_WeakPlateExplode.uasset" 565
+"M:/504/DES504/Content/Prefabs/Particle/P_WeakPlateSpawn.uasset" 566
+"M:/504/DES504/Content/roomrotate/audio/break.uasset" 567
+"M:/504/DES504/Content/Prefabs/Plates/WeakPlate_Tutorial.uasset" 568
+"M:/504/DES504/Content/roomrotate/enviroment/ball/spear_mat.uasset" 569
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 570
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/P_Sparks_Expolode.uasset" 571
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/start_mat.uasset" 572
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/MAT/bullet.uasset" 573
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/star_mat2.uasset" 574
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/star_final.uasset" 575
+"M:/504/DES504/Content/roomrotate/ParticleEffect/star/star.uasset" 576
+"M:/504/DES504/Content/StarterContent/Shapes/Shape_Cone.uasset" 577
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/questPoint.uasset" 578
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/markt_mat.uasset" 579
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/ASSETS/mark.uasset" 580
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/questPoint_forJump.uasset" 581
+"M:/504/DES504/Content/roomrotate/ParticleEffect/star/star2.uasset" 582
+"M:/504/DES504/Content/roomrotate/ParticleEffect/star/MAT_SHOWSTAR.uasset" 583
+"M:/504/DES504/Content/roomrotate/ParticleEffect/star/pickstar.uasset" 584
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/questPoint_scence1.uasset" 585
+"../../../Engine/Content/BasicShapes/Cone.uasset" 586
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/savepoint.uasset" 587
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/triggerforNext.uasset" 588
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_01_Tutorial_BuiltData.uasset" 589
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/M_Stair.uasset" 590
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/T-buildingE-1new.uasset" 591
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/Material_010.uasset" 592
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/T-buildingE-2bake.uasset" 593
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/Material_011.uasset" 594
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/pillar01-bake.uasset" 595
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/M_Pillar01.uasset" 596
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A1/T-buildingA-1bake.uasset" 597
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A1/phong2SG.uasset" 598
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A1/T-buildingA-1.uasset" 599
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A2/T-buildingA-2bake.uasset" 600
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A2/initialShadingGroup.uasset" 601
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingA/A2/T-buildingA-2.uasset" 602
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-1bake.uasset" 603
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/Material.uasset" 604
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-1.uasset" 605
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-2bake.uasset" 606
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/Material_003.uasset" 607
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-2.uasset" 608
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-3bake.uasset" 609
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/lambert3SG.uasset" 610
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingB/T-buildingB-3.uasset" 611
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingC/T-buildingCbake.uasset" 612
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingC/Material_007.uasset" 613
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingC/T-buildingC.uasset" 614
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/T-buildingD-1bake.uasset" 615
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/Material_008.uasset" 616
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/T-buildingD-1.uasset" 617
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/T-buildingD-2bake.uasset" 618
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/Material_004.uasset" 619
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingD/T-buildingD-2.uasset" 620
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/Material_012.uasset" 621
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/singleplatform.uasset" 622
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/Material_013.uasset" 623
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/stair.uasset" 624
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingE/T-buildingE-1.uasset" 625
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/T-buildingF-1bake.uasset" 626
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/Material_009.uasset" 627
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/T-buildingF-1.uasset" 628
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/T-buildingF-2bake.uasset" 629
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/Material_012.uasset" 630
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/final/buildingF/T-buildingF-2.uasset" 631
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/M_Flag00.uasset" 632
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/Flag00.uasset" 633
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/T-F-P.uasset" 634
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/Flag00.uasset" 635
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/lambert9SG.uasset" 636
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/new/Pillar01.uasset" 637
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/M_Pillar00.uasset" 638
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/Pillar00.uasset" 639
+"M:/504/DES504/Content/roomrotate/ParticleEffect/magicCircle/DirtMask.uasset" 640
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_01_Tutorial.umap" 641
+"M:/504/DES504/Content/Art/Animation/selfclose.uasset" 642
+"M:/504/DES504/Content/Art/Animation/selfClose_montage.uasset" 643
+"M:/504/DES504/Content/Art/mainhall/Default_Material.uasset" 644
+"M:/504/DES504/Content/Art/mainhall/ceiling1.uasset" 645
+"M:/504/DES504/Content/Art/mainhall/ceiling.uasset" 646
+"M:/504/DES504/Content/Art/mainhall/Default_Material6.uasset" 647
+"M:/504/DES504/Content/Art/mainhall/polySurface582_1.uasset" 648
+"M:/504/DES504/Content/Art/mainhall/FbxScene_ceiling_33.uasset" 649
+"M:/504/DES504/Content/Art/mainhall/blinn_item_Diamond.uasset" 650
+"M:/504/DES504/Content/Art/mainhall/pCylinder1.uasset" 651
+"M:/504/DES504/Content/Art/mainhall/FbxScene_diamond.uasset" 652
+"M:/504/DES504/Content/Art/mainhall/knight_and_front_wall1.uasset" 653
+"M:/504/DES504/Content/Art/mainhall/knight_and_front_wall2.uasset" 654
+"M:/504/DES504/Content/Art/mainhall/wall_behind_chair.uasset" 655
+"M:/504/DES504/Content/Art/mainhall/FbxScene_front_wall_33.uasset" 656
+"M:/504/DES504/Content/Prefabs/Portal/Door_MainHall.uasset" 657
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_02_MainHall_BuiltData.uasset" 658
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_02_MainHall.umap" 659
+"M:/504/DES504/Content/Prefabs/Dead/DeadArea.uasset" 660
+"M:/504/DES504/Content/Prefabs/Portal/Portal_MagicCube_Library.uasset" 661
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/camarashake_spearwall.uasset" 662
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_01.uasset" 663
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap01.uasset" 664
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_01_b.uasset" 665
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap01_b.uasset" 666
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap01_pCube448_trap01.uasset" 667
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap01_trap01_pCone36.uasset" 668
+"M:/504/DES504/Content/roomrotate/ParticleEffect/P_spearWallSpark.uasset" 669
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/spearwall.uasset" 670
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02.uasset" 671
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap02.uasset" 672
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap_02_b.uasset" 673
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/MAT_trap02_b.uasset" 674
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02_polySurface95_trap02.uasset" 675
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/trap/trap02_trap02_pCube454.uasset" 676
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/spearwall_2.uasset" 677
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/librarypaint01psbake.uasset" 678
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/mAT_librarypaint01psbake2.uasset" 679
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/librarypaint01psbake2.uasset" 680
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/mAT_librarypaint01psbake2_2.uasset" 681
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/librarypaint02psbake.uasset" 682
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/mAT_librarypaint02psbake2.uasset" 683
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/librarypaint02psbake2.uasset" 684
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/mAT_librarypaint02psbake2_2.uasset" 685
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairpathbake.uasset" 686
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_stairpathbake.uasset" 687
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel02_2.uasset" 688
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/normal_mapping_normal_map1.uasset" 689
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel02.uasset" 690
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/0618_print/librarypaint01.uasset" 691
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/0618_print/librarypaint02.uasset" 692
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 693
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/library02.uasset" 694
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/librarynormal.uasset" 695
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_bookshelf.uasset" 696
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/bookshelf02.uasset" 697
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairbake.uasset" 698
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_stairbake.uasset" 699
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stair.uasset" 700
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stair/stairslide.uasset" 701
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairhandlebake.uasset" 702
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_stairhandlebake.uasset" 703
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairhandle.uasset" 704
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairpath.uasset" 705
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairpillarbake.uasset" 706
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_stairpillarbake.uasset" 707
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairpillar.uasset" 708
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairwallbake.uasset" 709
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/Mat_stairwallbake.uasset" 710
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/stairwall.uasset" 711
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel01tex.uasset" 712
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel01.uasset" 713
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel01.uasset" 714
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel02.uasset" 715
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel03tex_02.uasset" 716
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunnel03.uasset" 717
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunnel03.uasset" 718
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunneltorch_0.uasset" 719
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/MAT_newtunneltorch_0.uasset" 720
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/newtunneltorch.uasset" 721
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/autoSpawnWall.uasset" 722
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/paint.uasset" 723
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/wallshaking.uasset" 724
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_03_TunnelA_BuiltData.uasset" 725
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/tunnel/NewMaterial.uasset" 726
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/MAT_bilu.uasset" 727
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/enteroom-bake.uasset" 728
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/Material_001.uasset" 729
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/enterroom.uasset" 730
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/Material_004.uasset" 731
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/enterroomceiling.uasset" 732
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/standtorch-bake.uasset" 733
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/Material_005.uasset" 734
+"M:/504/DES504/Content/Prefabs/Castle/tutorial_castle/other/torch.uasset" 735
+"M:/504/DES504/Content/Prefabs/Particle/P_Cloud_Library.uasset" 736
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/booksbake.uasset" 737
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/MAT_book.uasset" 738
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/book001.uasset" 739
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/book002.uasset" 740
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/book003.uasset" 741
+"M:/504/DES504/Content/roomrotate/enviroment/tunnel/assets/liberay/book/book004.uasset" 742
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/texture/laze_stamen.uasset" 743
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/MAT/laze_stamen.uasset" 744
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/MAT/round.uasset" 745
+"M:/504/DES504/Content/roomrotate/ParticleEffect/door/dooreffect.uasset" 746
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_03_TunnelA.umap" 747
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_04_MagicCube_BuiltData.uasset" 748
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_04_MagicCube.umap" 749
+"M:/504/DES504/Content/roomrotate/enviroment/camera_trigger.uasset" 750
+"M:/504/DES504/Content/Prefabs/MainHall/Sword_2.uasset" 751
+"M:/504/DES504/Content/Prefabs/Plates/Plate_Rope.uasset" 752
+"M:/504/DES504/Content/Prefabs/Plates/WeakPlate_Vertical.uasset" 753
+"M:/504/DES504/Content/Prefabs/Rope/DisActiveRopes.uasset" 754
+"M:/504/DES504/Content/Prefabs/Particle/Material/M_RopePoint.uasset" 755
+"M:/504/DES504/Content/Prefabs/Particle/P_RopeAppear.uasset" 756
+"M:/504/DES504/Content/Prefabs/Rope/ActiveRopes.uasset" 757
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_05_Bridge_BuiltData.uasset" 758
+"M:/504/DES504/Content/Art/texture/bridgebake.uasset" 759
+"M:/504/DES504/Content/Art/texture/bridgebake_tex.uasset" 760
+"M:/504/DES504/Content/Art/texture/building003bake.uasset" 761
+"M:/504/DES504/Content/Art/texture/Building003_.uasset" 762
+"M:/504/DES504/Content/Art/texture/building001bake.uasset" 763
+"M:/504/DES504/Content/Art/texture/Building1.uasset" 764
+"M:/504/DES504/Content/Art/texture/circlebake.uasset" 765
+"M:/504/DES504/Content/Art/texture/circlebake_tex.uasset" 766
+"M:/504/DES504/Content/Art/texture/decorate002bake.uasset" 767
+"M:/504/DES504/Content/Art/texture/decorate002.uasset" 768
+"M:/504/DES504/Content/Art/texture/doorbake.uasset" 769
+"M:/504/DES504/Content/Art/texture/doorbake_MT.uasset" 770
+"M:/504/DES504/Content/Art/texture/piece01bake.uasset" 771
+"M:/504/DES504/Content/Art/texture/piece1.uasset" 772
+"M:/504/DES504/Content/Art/texture/piece002bake.uasset" 773
+"M:/504/DES504/Content/Art/texture/piece2.uasset" 774
+"M:/504/DES504/Content/Art/texture/groundrockbake.uasset" 775
+"M:/504/DES504/Content/Art/texture/rock.uasset" 776
+"M:/504/DES504/Content/Prefabs/Particle/Material/M_Dust.uasset" 777
+"M:/504/DES504/Content/Prefabs/Particle/P_FlowDust.uasset" 778
+"M:/504/DES504/Content/Prefabs/Particle/P_RopeDisappear.uasset" 779
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 780
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/MAT/trail.uasset" 781
+"M:/504/DES504/Content/roomrotate/ParticleEffect/laze/LAZE.uasset" 782
+"M:/504/DES504/Content/ThirdPersonBP/MainMaps/Map_05_Bridge.umap" 783
+"M:/504/DES504/Content/ThirdPersonBP/Maps/mainmeun.umap" 784
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/coveranimation.uasset" 785
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/me.uasset" 786
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/media.uasset" 787
+"M:/504/DES504/Content/roomrotate/UI/MainMenu/mediaUI.uasset" 788
+"M:/504/DES504/Content/ThirdPersonBP/Maps/mediamap.umap" 789
+"M:/504/DES504/Content/roomrotate/enviroment/ball/ironBox.uasset" 790
+"M:/504/DES504/Content/StarterContent/Textures/T_Door_M.uasset" 791
+"M:/504/DES504/Content/StarterContent/Textures/T_Door_N.uasset" 792
+"M:/504/DES504/Content/StarterContent/Props/Materials/M_Door.uasset" 793
+"M:/504/DES504/Content/roomrotate/enviroment/ball/jointandball.uasset" 794
+"M:/504/DES504/Content/roomrotate/enviroment/ball/Shape_Sphere.uasset" 795
+"M:/504/DES504/Content/roomrotate/enviroment/ball/ball.uasset" 796
+"M:/504/DES504/Content/StarterContent/Materials/M_Glass.uasset" 797
+"M:/504/DES504/Content/roomrotate/enviroment/staticMesh/SM_Door.uasset" 798
+"M:/504/DES504/Content/StarterContent/Textures/T_Frame_M.uasset" 799
+"M:/504/DES504/Content/StarterContent/Textures/T_Frame_N.uasset" 800
+"M:/504/DES504/Content/StarterContent/Props/Materials/M_Frame.uasset" 801
+"M:/504/DES504/Content/roomrotate/enviroment/staticMesh/SM_DoorFrame.uasset" 802
+"M:/504/DES504/Content/roomrotate/UI/levelCompelete/MainBGOverlay.uasset" 803
+"M:/504/DES504/Content/roomrotate/UI/levelCompelete/Level_complete.uasset" 804
+"M:/504/DES504/Content/roomrotate/enviroment/targetdoor.uasset" 805
+"M:/504/DES504/Content/roomrotate/enviroment/tuotorial/tiptrigger.uasset" 806
+"M:/504/DES504/Content/ThirdPersonBP/Maps/testmap_BuiltData.uasset" 807
+"M:/504/DES504/Content/roomrotate/character/colors.uasset" 808
+"M:/504/DES504/Content/roomrotate/character/mAT_COLORS.uasset" 809
+"M:/504/DES504/Content/roomrotate/character/color2.uasset" 810
+"M:/504/DES504/Content/roomrotate/character/mAT_COLORS_2.uasset" 811
+"M:/504/DES504/Content/roomrotate/character/character_0613_PhysicsAsset.uasset" 812
+"M:/504/DES504/Content/roomrotate/character/character_0613_Skeleton.uasset" 813
+"M:/504/DES504/Content/roomrotate/character/character_0613.uasset" 814
+"M:/504/DES504/Content/ThirdPersonBP/Maps/testmap.umap" 815
+"../../../Engine/Content/Maps/Entry.umap" 816
